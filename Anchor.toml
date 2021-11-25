@@ -1,11 +1,11 @@
-[programs.localnet]
-solana_project = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+solana_project = "9qKWyzr36SvhEw6RjDQL1c9NWCdaMwXy2gDULPEyJY7D"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/adametrnal/.config/solana/id.json"
 
 [scripts]
